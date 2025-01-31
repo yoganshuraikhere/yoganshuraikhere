@@ -20,38 +20,53 @@ Here are some ideas to get you started:
 **Projects**
 
 **CONNECTED BATTERIES LLC (CLIENT) (May 2023 – Current)**
+
 • Developing SQL scripts on Snowflake for performing ETL operations on large number of datasets. The source dataset
 includes JSON file, CSV, API, S3 Bucket, Excel, Azure blob etc.
+
 • Flattening of JSON data and loading into Landing table, performing landing to stage and stage to core transformation jobs in snowflake and
 ADF.
+
 • End to end testing for the jobs including unit testing and QA validation.
+
 • Creating and monitoring Pipelines in ADF for SQL jobs.
 
 **P&G EMPLOYEE SITE APP (CLIENT) (April 2022 – Sept 2022)**
+
 • Developed real time user location tracking with the help of Azure services and DOTNET (C#).
+
 • Built SignalR service invoking the client side from server side (local server). Developed SignalR in VS using C#, as a backend
 server for sending the live coordinates of the user.
+
 • Used Azure Database trigger function and azure functions to receive the data and stream real time coordinates to Azure
 App as a frontend.
+
 • Performed e2e testing
 
 
 **EDUCATION**
 
 **Dayananda Sagar University, Bengaluru (Apr 2021)**
+
 • Bachelor of Technology: Computer Science and Engineering - CGPA 8.53
+
 **PU – Sri Chaitanya Techno School, Vizag (April 2017)**
+
 • CBSE Science Scored 83 %
 
 
 **ACCOMPLISHMENTS AND CERTIFICATIONS**
 
 • Awarded SPOT ON for excellence in displaying exemplary team spirit, taking initiative and delivering high value to customers.
+
 • Microsoft Certified Azure Fundamentals (AZ-900)
+
 • Certifications in PySpark and Azure SQL
 
 **Contact**
 
 Ph- +91 6260620585
+
 Email - YOGANSHURAIKHERE52@GMAIL.COM
+
 In - https://www.linkedin.com/in/yoganshu-raikhere-570677158/
