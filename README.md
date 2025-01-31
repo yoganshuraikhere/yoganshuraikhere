@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 **Introduction**
+
 Senior Data Engineer equipped with great coding and debugging abilities. Accomplishes project goals consistently with elegant, scalable code. Strong work ethic and dedicated to quality assurance. Adept at working with teams or independently in fast-paced settings.
 
 I have a deep interest in machine learning and its potential to extract valuable insights from data. I enjoy working with algorithms, developing models, and tackling real-world challenges using data-driven     techniques. Whether it's supervised or unsupervised learning, deep learning, or optimization, I am always eager to learn and experiment with new concepts. My goal is to apply machine learning to drive innovation and create meaningful solutions.
@@ -36,6 +37,7 @@ App as a frontend.
 
 
 **EDUCATION**
+
 **Dayananda Sagar University, Bengaluru (Apr 2021)**
 • Bachelor of Technology: Computer Science and Engineering - CGPA 8.53
 **PU – Sri Chaitanya Techno School, Vizag (April 2017)**
@@ -43,11 +45,13 @@ App as a frontend.
 
 
 **ACCOMPLISHMENTS AND CERTIFICATIONS**
+
 • Awarded SPOT ON for excellence in displaying exemplary team spirit, taking initiative and delivering high value to customers.
 • Microsoft Certified Azure Fundamentals (AZ-900)
 • Certifications in PySpark and Azure SQL
 
 **Contact**
+
 Ph- +91 6260620585
 Email - YOGANSHURAIKHERE52@GMAIL.COM
 In - https://www.linkedin.com/in/yoganshu-raikhere-570677158/
